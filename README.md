@@ -59,3 +59,10 @@ Learning by building, experimenting, and figuring things out along the way.
 ## 🎯 What I'm Working Towards
 
 Building a stronger foundation in electronics, programming, and embedded systems while exploring software, networking, and AI.
+
+---
+
+## 📫 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/rohitseeramsetti)
+- [Email](mailto:rohitseeramsetti@gmail.com)
